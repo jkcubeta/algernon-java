@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Class-Path: cglib-nodep-2.1_3.jar jdom2-2.0.61.jar selenium-remote-dri
+ ver-2.48.2.jar httpclient-4.5.21.jar httpcore-4.4.41.jar commons-logg
+ ing-1.22.jar commons-codec-1.91.jar webdriver-firefox-0.9.7376.jar se
+ lenium-java-2.53.1.jar selenium-chrome-driver-2.53.1.jar selenium-rem
+ ote-driver-2.53.1.jar cglib-nodep-2.1_3.jar gson-2.3.1.jar selenium-a
+ pi-2.53.1.jar guava-19.0.jar httpclient-4.5.1.jar httpcore-4.4.3.jar 
+ commons-logging-1.2.jar commons-codec-1.10.jar commons-exec-1.3.jar j
+ na-4.1.0.jar jna-platform-4.1.0.jar selenium-edge-driver-2.53.1.jar c
+ ommons-io-2.4.jar htmlunit-driver-2.21.jar htmlunit-2.21.jar xalan-2.
+ 7.2.jar serializer-2.7.2.jar commons-lang3-3.4.jar httpmime-4.5.2.jar
+  htmlunit-core-js-2.17.jar neko-htmlunit-2.21.jar xercesImpl-2.11.0.j
+ ar xml-apis-1.4.01.jar cssparser-0.9.18.jar sac-1.3.jar websocket-cli
+ ent-9.2.15.v20160210.jar jetty-util-9.2.15.v20160210.jar jetty-io-9.2
+ .15.v20160210.jar websocket-common-9.2.15.v20160210.jar websocket-api
+ -9.2.15.v20160210.jar commons-collections-3.2.2.jar selenium-firefox-
+ driver-2.53.1.jar selenium-ie-driver-2.53.1.jar selenium-safari-drive
+ r-2.53.1.jar netty-3.5.7.Final.jar selenium-support-2.53.1.jar seleni
+ um-leg-rc-2.53.1.jar commons-codec-1.9.jar httpclient-4.5.2.jar selen
+ ium-core-1.0-20080914.225453.jar selenium-server-coreless-1.0-2008101
+ 0.060147.jar ant-1.6.5.jar org.mortbay.jetty-5.1.10.jar commons-loggi
+ ng-1.0.4.jar commons-codec-1.3.jar servlet-api-2.4.jar bcprov-jdk15-1
+ 35.jar js-1.6R5.jar junit-3.8.1.jar mysql-connector-java-6.0.4.jar se
+ rvlet-api-2.5.jar selenium-support-2.48.2.jar webdriver-common-0.9.73
+ 76.jar jsoup-1.9.2.jar httpcore-4.4.4.jar guava-18.0.jar xml-apis-1.4
+ .01.jar gson-2.3.1.jar json-20080701.jar mysql-connector-java-6.0.4.j
+ ar jna-platform-4.1.0.jar commons-exec-1.3.jar commons-logging-1.2.ja
+ r jdom2-2.0.6.jar jna-4.1.0.jar jdom2-2.0.6.jar selenium-api-2.48.2.j
+ ar
+Main-Class: automation_framework.Robot
+
